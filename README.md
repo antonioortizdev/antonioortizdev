@@ -5,12 +5,12 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FFFFFF?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/7752398/antonio-ortiz)
 [![Web](https://img.shields.io/badge/Web-21759B?style=for-the-badge&logo=rss&logoColor=white)](https://antonioortiz.dev)
 
-👩‍💻 I know SQL, PHP, TypeScript, JavaScript, HTML & CSS
-📈 I worked with Test-driven Development (TDD), Domain-driven Development (DDD), Agile, 
-🔭 I’m currently working with [Turbopass](https://turbopass.com) team as a Full-Stack Developer
-👯 I’m looking to collaborate on Open Source Software projects
-📫 How to reach me: Send me an e-mail to [antonioortizdev@gmail.com](mailto:antonioortizdev@gmail.com)
-⚡ Fun fact: Menorca has more beaches than any of the other Balearic Islands, with over 100 beaches to choose from!
+- 👩‍💻 I know SQL, PHP, TypeScript, JavaScript, HTML & CSS
+- 📈 I worked with Test-driven Development (TDD), Domain-driven Development (DDD), Agile, 
+- 🔭 I’m currently working with [Turbopass](https://turbopass.com) team as a Full-Stack Developer
+- 👯 I’m looking to collaborate on Open Source Software projects
+- 📫 How to reach me: Send me an e-mail to [antonioortizdev@gmail.com](mailto:antonioortizdev@gmail.com)
+- ⚡ Fun fact: Menorca has more beaches than any of the other Balearic Islands, with over 100 beaches to choose from!
 
 <!--
 **antonioortizdev/antonioortizdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
