@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi👋 I'm Antonio Ortiz, a Software Developer based on the gorgeous island of [Menorca](https://en.wikipedia.org/wiki/Menorca)
+
+- 🔭 I’m currently working on [Turbopass](https://turbopass.com) as a Full-Stack Developer
+- 👯 I’m looking to collaborate on Open Source Software projects
+- 📫 How to reach me: Send me an e-mail to [antonioortizdev@gmail.com](mailto:antonioortizdev@gmail.com)
+- ⚡ Fun fact: Menorca has more beaches than any of the other Balearic Islands, with over 100 beaches to choose from!
 
 <!--
 **antonioortizdev/antonioortizdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
