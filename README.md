@@ -7,7 +7,7 @@
 
 - 👩‍💻 I know SQL, PHP, TypeScript, JavaScript, HTML & CSS
 - 📈 I worked with Test-driven Development (TDD), Domain-driven Development (DDD), Agile, 
-- 🔭 I’m currently working with [Turbopass](https://turbopass.com) team as a Full-Stack Developer
+- 🔭 I’m currently working with [Turbopass](https://turbopass.com) team as a Software Engineer
 - 👯 I’m looking to collaborate on Open Source Software projects
 - 📫 How to reach me: Send me an e-mail to [antonioortizdev@gmail.com](mailto:antonioortizdev@gmail.com)
 - ⚡ Fun fact: Menorca has more beaches than any of the other Balearic Islands, with over 100 beaches to choose from!
